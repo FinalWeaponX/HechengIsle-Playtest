@@ -1,21 +1,13 @@
 # 河城 · Windows 试玩版
 
-这里仅发布可直接运行的试玩包，不包含游戏工程源码。
+[下载最新版](https://github.com/FinalWeaponX/HechengIsle-Playtest/releases/latest) · [历次发行](https://github.com/FinalWeaponX/HechengIsle-Playtest/releases)
 
-## 下载与运行
+## r32「码头生活」
 
-1. 打开 [试玩版下载页](https://github.com/FinalWeaponX/HechengIsle-Playtest/releases/tag/playtest-2026-10-30-r19)。
-2. 在 **Assets** 下载 `Hecheng-Windows-x64-2026-10-30-r19.zip`。
-3. 完整解压，双击文件夹内的 **Hecheng.exe**，无需安装 Godot 或 Blender。
+在发布页的 **Assets** 下载 `Hecheng-Windows-x64-2026-11-05-r32.zip`。完整解压，进入 `Hecheng-Windows-x64` 文件夹，双击 **Hecheng.exe**。适用于 Windows 64 位，显卡需支持 Vulkan。更新后可继续使用原试玩存档。
 
-适用于 Windows 64 位，显卡需支持 Vulkan。请勿下载 GitHub 自动生成的 **Source code** 压缩包，那不是游戏。完整操作说明在游戏包中的 `README.txt`。
+清早到老码头找阿舟和海叔。沿栈桥能看到船员散步、停步聊天，走近按 **E** 可交谈或办事。码头尽头可以跳水，游回来后抓住黄漆梯即可上岸。
 
-## 这一版
+按 **I** 随身领取和切换装备，按 **Tab** 查当天的鱼情。阿舟当面收鱼，南港鱼市对同一批渔获多付 30%。图鉴一集齐后可向海叔学习远洋路亚，继续参加钓鱼大赛和「海洋之王」的重舰调查。
 
-中央圆形市集、自然道路、房屋与双向餐厅门、带水光的海豚喷泉、岸边和船上钓鱼、鱼种图鉴、骑车划船、初始小挎包、家具与咖啡机，以及照片保存。七家后续商铺目前只留空地，部分职业和经营玩法仍在开发。
-
-**WASD** 移动 · **V** 切换视角 · **E** 交互 · **F** 上下载具 · **Tab** 背包 · **F5 / F9** 存档 / 读档 · **P** 拍照。
-
-先回家领取鱼竿和鱼篓，再到水边钓鱼。退出前请按 **F5** 并确认保存成功。
-
-本试玩包未包含动态桌面组件。欢迎通过 Issues 反馈问题，说明位置、操作和现象即可。
+**WASD** 移动或游泳 · **空格** 跳跃 · **V** 切换视角 · **F** 上下载具 · **F5 / F9** 存档 / 读档 · **P** 拍照。完整说明见试玩包内的 `README.txt`。
